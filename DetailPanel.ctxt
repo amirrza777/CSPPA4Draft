@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DetailPanel
+comment1.params=dataManager\ pollutantCombo\ yearCombo\ regionCombo
+comment1.target=DetailPanel(PollutionDataManager,\ javafx.scene.control.ComboBox,\ javafx.scene.control.ComboBox,\ javafx.scene.control.ComboBox)
+comment2.params=
+comment2.target=javafx.scene.Node\ getContent()
+comment3.params=
+comment3.target=void\ refresh()
+comment4.params=
+comment4.target=void\ refreshTable()
+numComments=5

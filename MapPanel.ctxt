@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MapPanel
+comment1.params=dataManager\ pollutantCombo\ yearCombo\ regionCombo\ highPollutionOnlyCheck
+comment1.target=MapPanel(PollutionDataManager,\ javafx.scene.control.ComboBox,\ javafx.scene.control.ComboBox,\ javafx.scene.control.ComboBox,\ javafx.scene.control.CheckBox)
+comment2.params=
+comment2.target=javafx.scene.Node\ getContent()
+comment3.params=
+comment3.target=void\ refresh()
+comment4.params=
+comment4.target=void\ refreshMap()
+comment5.params=easting\ northing\ mapWidth\ mapHeight
+comment5.target=javafx.geometry.Point2D\ toMapCoordinates(double,\ double,\ double,\ double)
+comment6.params=value\ pollutant
+comment6.target=javafx.scene.paint.Color\ getColorForValue(double,\ java.lang.String)
+comment7.params=pollutant
+comment7.target=double\ getHighThreshold(java.lang.String)
+numComments=8

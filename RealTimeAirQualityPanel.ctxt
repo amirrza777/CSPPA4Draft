@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RealTimeAirQualityPanel
+comment1.params=
+comment1.target=javafx.scene.Node\ getContent()
+comment2.params=
+comment2.target=void\ fetchData()
+numComments=3

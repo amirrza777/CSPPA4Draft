@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PollutionDataManager
+comment1.params=
+comment1.target=PollutionDataManager()
+comment2.params=
+comment2.target=void\ loadAllData()
+comment3.params=pollutant\ year\ region
+comment3.target=DataSet\ getDataSet(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=pollutant\ year\ region
+comment4.target=double\ computeAverage(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=pollutant\ year\ region
+comment5.target=double\ computeMax(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=pollutant\ year\ region
+comment6.target=java.util.List\ getMaxDataPoints(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=
+comment7.target=java.util.List\ getAllYears()
+numComments=8
